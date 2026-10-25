@@ -1,0 +1,12 @@
+{
+  "name": "Sanibel’s Calling",
+  "short_name": "Sanibel’s Calling",
+  "description": "Sanibel & Captiva guide: shell ID, a shelling logbook, low tides, hotspots, sunrise and sunset spots, must-sees and local favorites.",
+  "start_url": "./", "scope": "./", "display": "standalone", "orientation": "portrait",
+  "background_color": "#F3F7F8", "theme_color": "#13305C",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

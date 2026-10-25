@@ -1,0 +1,2697 @@
+{
+ "version": 1,
+ "updated": "2026-10-22",
+ "checked": "October 2026",
+ "app": {
+  "name": "Sanibel’s Calling",
+  "tagline": "See why everyone falls in love with Sanibel."
+ },
+ "booking": {
+  "url": "https://sanibelscalling.guestybookings.com",
+  "title": "Stay with us on Sanibel",
+  "text": "Book your Sanibel stay directly with us. See open dates, photos and rates.",
+  "button": "Check dates & book"
+ },
+ "notes": [
+  {
+   "title": "Welcome to Sanibel’s Calling",
+   "date": "2026-10-22",
+   "pinned": true,
+   "body": "This guide is everything we love about Sanibel and Captiva: where to find shells, where to watch the sun come up and go down, and the spots locals keep coming back to. We add new tips as we find them, so check back.\n\nWant to stay on the island? Tap **Stay with us** to check dates.",
+   "id": "n1"
+  }
+ ],
+ "strategy": [
+  {
+   "title": "Go at low tide",
+   "body": "The best shelling is from about an hour before low tide to an hour after, when the most beach and sandbar is uncovered. The lower the tide, the better: the app shows the next low on the Shells tab. **Negative low tides** (below zero on the tide chart) are the jackpot.",
+   "id": "s1"
+  },
+  {
+   "title": "Watch the weather",
+   "body": "Shells pile up after a **cold front** or a few days of **west or northwest wind**, which push water and shells onto Sanibel’s Gulf beaches. Winter (December to March) brings the most fronts. Be on the beach the first morning after the wind lays down.",
+   "id": "s2"
+  },
+  {
+   "title": "Use the moon",
+   "body": "Around the **full and new moon**, tides swing higher and lower than usual (spring tides). That means lower lows and fresh shells.",
+   "id": "s3"
+  },
+  {
+   "title": "Know where to look",
+   "body": "- **The shell line:** the band of shells and seaweed at the high-tide mark.\n- **The swash zone:** where waves wash up and slide back at low tide. Shells tumble here.\n- **Sandbars and troughs:** wade out at low tide; shells collect in the low spots.\n- **Passes and points:** Blind Pass and the ends of the islands get extra current, which brings extra shells.",
+   "id": "s4"
+  },
+  {
+   "title": "Go early",
+   "body": "Sunrise at low tide beats any time of day: the overnight high tide has brought in a fresh batch and nobody has picked through it yet.",
+   "id": "s5"
+  },
+  {
+   "title": "Technique",
+   "body": "- Do the **Sanibel Stoop**: walk slowly and scan; look for shapes and patterns, not just colors.\n- Check just under the water at the edge; wet shells show their true colors.\n- Bring a long-handled **scoop or sieve** so you can reach into the water.\n- **Water shoes** help on shell beds and sandbars.",
+   "id": "s6"
+  },
+  {
+   "title": "Check every shell",
+   "body": "Turn shells over before you keep them. If anything is home, even a hermit crab, put it back where you found it. Sand dollars that are brown and fuzzy are alive. A pen shell or whelk that is closed up or heavy may still be alive.",
+   "id": "s7"
+  },
+  {
+   "title": "What to bring",
+   "body": "Mesh bag (sand falls out), scoop or sieve, water shoes, sunscreen, water, bug spray for dawn and dusk, and a small container for tiny treasures like wentletraps.",
+   "id": "s8"
+  },
+  {
+   "title": "Cleaning your shells",
+   "body": "Rinse in fresh water and soak a day or two, changing the water. A soft toothbrush handles sand. A thin coat of mineral oil brings back the shine. Go easy with bleach: it can fade colors.",
+   "id": "s9"
+  }
+ ],
+ "tips": [
+  {
+   "title": "Leave live shells",
+   "body": "In Lee County (Sanibel and Captiva) you may not take or keep any shell with a living animal inside. The only exceptions are oysters, hard clams, sunray venus clams and coquinas, and those need a Florida saltwater fishing license. Live sand dollars, sea stars and sea urchins are living animals too: put them back in the water.",
+   "id": "t1"
+  },
+  {
+   "title": "Beach parking",
+   "body": "Most Sanibel beach lots charge by the hour, paid by app or at the pay station. Causeway Islands parking is free. Captiva’s lots are small and pricey. In season, arrive early or bike.",
+   "id": "t2"
+  },
+  {
+   "title": "The causeway toll",
+   "body": "The toll is collected only when you drive onto the islands. Leaving is free.",
+   "id": "t3"
+  },
+  {
+   "title": "Getting around",
+   "body": "About 25 miles of shared-use paths run the length of Sanibel. Bikes are the easiest way to hop between beaches, shops and the refuge.",
+   "id": "t4"
+  },
+  {
+   "title": "Sea turtle season (May–October)",
+   "body": "Turtles nest on these beaches. At night keep beach-facing lights off, don’t use flashlights on the sand, fill in holes and take your chairs and toys home.",
+   "id": "t5"
+  },
+  {
+   "title": "Do the stingray shuffle",
+   "body": "Shuffle your feet when wading so rays have time to scoot away.",
+   "id": "t6"
+  },
+  {
+   "title": "Fishing licenses",
+   "body": "Most anglers need a Florida saltwater fishing license for shore and pier fishing. Bait shops can help, or buy online from Florida Fish and Wildlife. Charters usually cover you.",
+   "id": "t7"
+  },
+  {
+   "title": "Beach conditions",
+   "body": "For water conditions, red tide and seaweed, check [visitbeaches.org](https://visitbeaches.org) before you go.",
+   "id": "t8"
+  },
+  {
+   "title": "Bugs",
+   "body": "No-see-ums come out at dawn and dusk, especially near mangroves. Bring repellent for sunsets and kayak trips.",
+   "id": "t9"
+  },
+  {
+   "title": "Emergencies",
+   "body": "Call 911. In hurricane season (June–November), follow Lee County emergency alerts.",
+   "id": "t10"
+  }
+ ],
+ "hotspots": [
+  {
+   "name": "Bowman’s Beach, west end",
+   "place": "bowmans",
+   "best": "Low tide after a west wind",
+   "body": "Walk west from the main path, past the crowds. The undeveloped stretch toward Blind Pass collects big shell lines after winter fronts. Lightning whelks, fighting conchs, cockles and the odd junonia.",
+   "shells": [
+    "lightning-whelk",
+    "fighting-conch",
+    "giant-cockle",
+    "junonia"
+   ],
+   "id": "h1"
+  },
+  {
+   "name": "Blind Pass",
+   "place": "blind-pass",
+   "best": "Low tide; check both sides of the bridge",
+   "body": "Currents through the pass drop shells by the bucketful. Work the sandbar at low tide and both the Sanibel and Captiva sides of the bridge. Don’t swim in the pass; the current is strong.",
+   "shells": [
+    "lettered-olive",
+    "calico-scallop",
+    "kittens-paw",
+    "wentletrap"
+   ],
+   "id": "h2"
+  },
+  {
+   "name": "Lighthouse Beach, bay side",
+   "place": "lighthouse-beach",
+   "best": "Early morning low tide",
+   "body": "The bay side near the fishing pier and the point is good for small shells, sand dollars and crown conchs. Live sand dollars are common on the bars here: look, don’t take.",
+   "shells": [
+    "crown-conch",
+    "sand-dollar",
+    "kittens-paw"
+   ],
+   "id": "h3"
+  },
+  {
+   "name": "Tarpon Bay Road Beach",
+   "place": "tarpon-bay-beach",
+   "best": "Low tide, any season",
+   "body": "A central Gulf beach with a wide swash zone. A good place to find lettered olives along the water’s edge.",
+   "shells": [
+    "lettered-olive",
+    "fighting-conch",
+    "cross-barred-venus"
+   ],
+   "id": "h4"
+  },
+  {
+   "name": "Turner Beach (Captiva side of Blind Pass)",
+   "place": "turner",
+   "best": "Low tide, then stay for sunset",
+   "body": "Shells collect along the rocks and the pass. Small lot, so come early.",
+   "shells": [
+    "calico-scallop",
+    "jingle",
+    "kittens-paw"
+   ],
+   "id": "h5"
+  },
+  {
+   "name": "Cayo Costa (by boat)",
+   "place": "cayo-costa",
+   "best": "Book a shelling cruise",
+   "body": "An undeveloped barrier island reached only by boat, with miles of beach and very little competition. Worth a day.",
+   "shells": [
+    "lions-paw",
+    "junonia",
+    "horse-conch"
+   ],
+   "id": "h6"
+  }
+ ],
+ "sunspots": [
+  {
+   "name": "Lighthouse Beach & fishing pier",
+   "kind": "sunrise",
+   "place": "lighthouse-beach",
+   "body": "The east tip of Sanibel looks out over San Carlos Bay. Watch the sun come up behind the causeway from the fishing pier or the bay-side beach. Dolphins often cruise by at first light.",
+   "id": "sun1"
+  },
+  {
+   "name": "Causeway Islands",
+   "kind": "sunrise",
+   "place": "causeway",
+   "body": "Park right on the sand for free and watch sunrise over the bay. An easy one with kids, coffee in hand.",
+   "id": "sun2"
+  },
+  {
+   "name": "Bowman’s Beach",
+   "kind": "sunset",
+   "place": "bowmans",
+   "body": "A long natural beach with no buildings in sight. In winter the sun sets over the Gulf right off the west end.",
+   "id": "sun3"
+  },
+  {
+   "name": "Blind Pass & Turner Beach",
+   "kind": "sunset",
+   "place": "turner",
+   "body": "One of the classic sunset spots on the islands. Parking is tight, so arrive 45 minutes early.",
+   "id": "sun4"
+  },
+  {
+   "name": "Captiva Beach (Alison Hagerup)",
+   "kind": "sunset",
+   "place": "alison-hagerup",
+   "body": "West-facing sand at the end of Captiva Drive. The crowd sometimes claps when the sun goes down.",
+   "id": "sun5"
+  },
+  {
+   "name": "The Mucky Duck",
+   "kind": "sunset",
+   "place": "mucky-duck",
+   "body": "Sunset with a drink in hand on the beach at Captiva’s favorite pub. Get there well before sundown for a table.",
+   "id": "sun6"
+  }
+ ],
+ "favorites": [
+  {
+   "name": "Causeway Islands Park",
+   "place": "causeway",
+   "tag": "Beach",
+   "body": "Free parking right on the water, calm shallows for the kids, and the dog can come too.",
+   "id": "f1"
+  },
+  {
+   "name": "Sanibel Island Farmers Market",
+   "place": "farmers-market",
+   "tag": "Sunday",
+   "body": "Sunday mornings in season: Florida citrus, Gulf shrimp, fresh bread and local honey.",
+   "id": "f2"
+  },
+  {
+   "name": "Pinocchio’s Original Italian Ice Cream",
+   "place": "pinocchios",
+   "tag": "Treat",
+   "body": "Homemade ice cream and a long line for good reason. A must after the beach.",
+   "id": "f3"
+  },
+  {
+   "name": "Tarpon Bay Explorers",
+   "place": "tarpon-bay-explorers",
+   "tag": "Kayak",
+   "body": "Paddle the Commodore Creek mangrove trail through the refuge. Go in the morning.",
+   "id": "f4"
+  },
+  {
+   "name": "Bailey’s General Store",
+   "place": "baileys",
+   "tag": "Grocery",
+   "body": "Island grocery since 1899. Stock the condo here.",
+   "id": "f5"
+  }
+ ],
+ "cats": [
+  {
+   "id": "beach",
+   "name": "Beaches",
+   "color": "#1E88A8",
+   "icon": "wave"
+  },
+  {
+   "id": "shelling",
+   "name": "Shelling",
+   "color": "#C27A3A",
+   "icon": "shell"
+  },
+  {
+   "id": "museum",
+   "name": "Museums & culture",
+   "color": "#7A5BA8",
+   "icon": "museum"
+  },
+  {
+   "id": "nature",
+   "name": "Hikes & nature",
+   "color": "#3C8D4F",
+   "icon": "leaf"
+  },
+  {
+   "id": "kayak",
+   "name": "Kayak, paddle & bikes",
+   "color": "#2A9D8F",
+   "icon": "paddle"
+  },
+  {
+   "id": "tours",
+   "name": "Boat & wildlife tours",
+   "color": "#2F6FA6",
+   "icon": "boat"
+  },
+  {
+   "id": "airboat",
+   "name": "Airboat tours",
+   "color": "#6B8E23",
+   "icon": "fan"
+  },
+  {
+   "id": "everglades",
+   "name": "Everglades tours",
+   "color": "#4F7942",
+   "icon": "gator"
+  },
+  {
+   "id": "fishfree",
+   "name": "Fishing: free spots",
+   "color": "#1565C0",
+   "icon": "fish"
+  },
+  {
+   "id": "fishpaid",
+   "name": "Fishing charters",
+   "color": "#0D47A1",
+   "icon": "rod"
+  },
+  {
+   "id": "bait",
+   "name": "Bait & tackle",
+   "color": "#455A64",
+   "icon": "hook"
+  },
+  {
+   "id": "market",
+   "name": "Farmers market",
+   "color": "#8BC34A",
+   "icon": "basket"
+  },
+  {
+   "id": "music",
+   "name": "Live music",
+   "color": "#D84393",
+   "icon": "music"
+  },
+  {
+   "id": "events",
+   "name": "Events & calendars",
+   "color": "#E07B39",
+   "icon": "calendar"
+  },
+  {
+   "id": "icecream",
+   "name": "Ice cream & treats",
+   "color": "#EC6F9B",
+   "icon": "cone"
+  },
+  {
+   "id": "shellshop",
+   "name": "Shell shops",
+   "color": "#B5651D",
+   "icon": "conch"
+  },
+  {
+   "id": "gifts",
+   "name": "Souvenirs & shopping",
+   "color": "#9C6ADE",
+   "icon": "bag"
+  },
+  {
+   "id": "grocery",
+   "name": "Groceries",
+   "color": "#43A047",
+   "icon": "cart"
+  },
+  {
+   "id": "hardware",
+   "name": "Hardware",
+   "color": "#757575",
+   "icon": "wrench"
+  },
+  {
+   "id": "drug",
+   "name": "Drugstore",
+   "color": "#E53935",
+   "icon": "cross"
+  },
+  {
+   "id": "daytrip",
+   "name": "Worth the drive",
+   "color": "#5D4037",
+   "icon": "car"
+  }
+ ],
+ "places": [
+  {
+   "id": "lighthouse-beach",
+   "n": "Lighthouse Beach & Sanibel Lighthouse",
+   "c": "beach",
+   "a": "Sanibel (east end)",
+   "addr": "110 Periwinkle Way, Sanibel, FL 33957",
+   "must": 1,
+   "wiki": "Sanibel Island Light",
+   "d": "The island’s iconic 1884 lighthouse stands over a rebuilt beach with new dunes, a boardwalk nature trail and the fishing pier. Bay side and Gulf side meet here, so you can catch sunrise over San Carlos Bay.",
+   "tip": "Early morning low tide is great for shells and birds. The lighthouse grounds are viewable from outside only.",
+   "when": "Paid parking (app or pay stations).",
+   "tags": [
+    "Sunrise",
+    "Kids",
+    "Restrooms"
+   ]
+  },
+  {
+   "id": "causeway",
+   "n": "Causeway Islands Park",
+   "c": "beach",
+   "a": "Sanibel Causeway",
+   "addr": "19931 Sanibel Causeway, Sanibel, FL 33957",
+   "must": 6,
+   "wiki": "Sanibel Causeway",
+   "d": "Two small islands along the causeway with calm, shallow water you can park right next to. A local favorite for windsurfers, picnics, dogs on a leash and fishing.",
+   "tip": "Free parking. Families love the calm water. Watch for nesting birds on the first island in summer.",
+   "when": "Open daily; free parking.",
+   "tags": [
+    "Free",
+    "Dog-friendly",
+    "Kids"
+   ]
+  },
+  {
+   "id": "gulfside",
+   "n": "Gulfside City Park (Algiers Beach)",
+   "c": "beach",
+   "a": "Sanibel (mid-island)",
+   "addr": "2001 Algiers Ln, Sanibel, FL 33957",
+   "tags": [
+    "Restrooms",
+    "Picnic"
+   ],
+   "d": "Quiet, shaded mid-island beach with picnic tables and a short walk to the sand. Usually less crowded than Lighthouse or Bowman’s.",
+   "when": "Paid parking."
+  },
+  {
+   "id": "tarpon-bay-beach",
+   "n": "Tarpon Bay Road Beach",
+   "c": "beach",
+   "a": "Sanibel (mid-island)",
+   "addr": "Tarpon Bay Rd & W Gulf Dr, Sanibel, FL 33957",
+   "tags": [
+    "Restrooms"
+   ],
+   "d": "Central Gulf beach at the south end of Tarpon Bay Road. Park in the lot and take the short path to a wide stretch of sand.",
+   "when": "Paid parking."
+  },
+  {
+   "id": "bowmans",
+   "n": "Bowman’s Beach",
+   "c": "beach",
+   "a": "Sanibel (west end)",
+   "addr": "1700 Bowmans Beach Rd, Sanibel, FL 33957",
+   "must": 3,
+   "tags": [
+    "Shelling",
+    "Sunset",
+    "Restrooms"
+   ],
+   "d": "Sanibel’s most natural-feeling beach: a long, undeveloped strand with no buildings in sight, excellent shelling and big sunsets.",
+   "tip": "Walk west from the main path for fewer people and more shells.",
+   "when": "Paid parking; a short walk over a footbridge to the beach."
+  },
+  {
+   "id": "blind-pass",
+   "n": "Blind Pass Beach",
+   "c": "beach",
+   "a": "Sanibel / Captiva line",
+   "addr": "6491 Sanibel Captiva Rd, Sanibel, FL 33957",
+   "tags": [
+    "Shelling",
+    "Sunset"
+   ],
+   "d": "Where Sanibel ends and Captiva begins. Strong currents make it a poor swimming beach, but the shelling and sunsets are among the best around.",
+   "tip": "Parking is small and fills by mid-morning. Don’t swim in the pass.",
+   "when": "Paid parking, very limited."
+  },
+  {
+   "id": "turner",
+   "n": "Turner Beach Park",
+   "c": "beach",
+   "a": "Captiva",
+   "addr": "17200 Captiva Dr, Captiva, FL 33924",
+   "tags": [
+    "Sunset",
+    "Restrooms",
+    "Shelling"
+   ],
+   "d": "Small Captiva-side park at Blind Pass with restrooms and showers. A classic sunset spot and good for shells along the rocks.",
+   "when": "Paid parking, small lot."
+  },
+  {
+   "id": "alison-hagerup",
+   "n": "Alison Hagerup Beach (Captiva Beach)",
+   "c": "beach",
+   "a": "Captiva",
+   "addr": "14790 Captiva Dr, Captiva, FL 33924",
+   "must": 7,
+   "tags": [
+    "Sunset"
+   ],
+   "d": "The beach at the end of the road on Captiva, a short walk from the village restaurants. Clear water and a famous sunset.",
+   "tip": "Parking is tight and pricey. Bike or come early, or pair it with dinner in the village.",
+   "when": "Paid parking."
+  },
+  {
+   "id": "cayo-costa",
+   "n": "Cayo Costa Shelling Cruise (Captiva Cruises)",
+   "c": "shelling",
+   "a": "Departs Captiva",
+   "addr": "11401 Andy Rosse Ln, Captiva, FL 33924",
+   "must": 5,
+   "wiki": "Cayo Costa State Park",
+   "web": "https://captivacruises.com/",
+   "d": "A boat ride to Cayo Costa State Park, an undeveloped barrier island with miles of empty beach and very little competition for shells. Dolphins often ride along on the way.",
+   "tip": "Reservations required. Bring water, sunscreen and a bag for shells.",
+   "when": "About 3 hours with roughly 2 on the island; check the schedule online.",
+   "tags": [
+    "Book ahead",
+    "Dolphins"
+   ]
+  },
+  {
+   "id": "capt-randy",
+   "n": "Captain Randy’s Dolphin & Shell Trips",
+   "c": "shelling",
+   "a": "Captiva (’Tween Waters marina)",
+   "addr": "15951 Captiva Dr, Captiva, FL 33924",
+   "d": "Small-boat eco trips to out-island beaches for shelling, with dolphin watching on the way.",
+   "tags": [
+    "Book ahead",
+    "Small group"
+   ]
+  },
+  {
+   "id": "capt-brian",
+   "n": "Captain Brian On The Water",
+   "c": "shelling",
+   "a": "Captiva",
+   "addr": "11401 Andy Rosse Ln, Captiva, FL 33924",
+   "d": "Guided private boat eco tours for shelling, dolphins and wildlife in Pine Island Sound.",
+   "tags": [
+    "Book ahead",
+    "Private"
+   ]
+  },
+  {
+   "id": "shell-museum-walks",
+   "n": "Shell Museum guided beach walks",
+   "c": "shelling",
+   "a": "Sanibel",
+   "addr": "3075 Sanibel Captiva Rd, Sanibel, FL 33957",
+   "web": "https://www.shellmuseum.org/",
+   "d": "The Bailey-Matthews National Shell Museum runs occasional guided beach walks with a marine biologist. A great way to learn what you’re picking up.",
+   "when": "Selected dates; check the museum calendar.",
+   "tags": [
+    "Kids",
+    "Learn"
+   ]
+  },
+  {
+   "id": "shell-museum",
+   "n": "Bailey-Matthews National Shell Museum & Aquarium",
+   "c": "museum",
+   "a": "Sanibel",
+   "addr": "3075 Sanibel Captiva Rd, Sanibel, FL 33957",
+   "must": 4,
+   "web": "https://www.shellmuseum.org/",
+   "wiki": "Bailey-Matthews National Shell Museum",
+   "d": "The only museum in the US devoted to shells and mollusks, with a living aquarium, touch tanks and a giant Pacific octopus. Perfect for a rainy or hot afternoon.",
+   "tip": "Ask about the keeper chats.",
+   "tags": [
+    "Rainy day",
+    "Kids"
+   ]
+  },
+  {
+   "id": "ding-visitor",
+   "n": "Ding Darling Visitor & Education Center",
+   "c": "museum",
+   "a": "Sanibel",
+   "addr": "1 Wildlife Dr, Sanibel, FL 33957",
+   "web": "https://www.fws.gov/refuge/jn-ding-darling",
+   "d": "Free exhibits on the refuge’s birds, mangroves and history, plus the starting point for Wildlife Drive.",
+   "when": "About 9–4; closed Fridays and federal holidays.",
+   "tags": [
+    "Free",
+    "Rainy day",
+    "Kids"
+   ]
+  },
+  {
+   "id": "historical-village",
+   "n": "Sanibel Historical Museum & Village",
+   "c": "museum",
+   "a": "Sanibel",
+   "addr": "950 Dunlop Rd, Sanibel, FL 33957",
+   "d": "A cluster of restored pioneer-era buildings, including an old post office, school and general store, that tells the story of island life before the causeway.",
+   "when": "Seasonal days and hours; check before you go.",
+   "tags": [
+    "History"
+   ]
+  },
+  {
+   "id": "crow",
+   "n": "CROW Visitor Education Center",
+   "c": "museum",
+   "a": "Sanibel",
+   "addr": "3883 Sanibel Captiva Rd, Sanibel, FL 33957",
+   "web": "https://www.crowclinic.org/",
+   "d": "The Clinic for the Rehabilitation of Wildlife treats thousands of injured animals a year. The visitor center has exhibits, live hospital views and ambassador animals.",
+   "when": "Weekdays, roughly 10–4.",
+   "tags": [
+    "Kids",
+    "Rainy day"
+   ]
+  },
+  {
+   "id": "big-arts",
+   "n": "BIG ARTS",
+   "c": "museum",
+   "a": "Sanibel",
+   "addr": "900 Dunlop Rd, Sanibel, FL 33957",
+   "web": "https://www.bigarts.org/",
+   "d": "Sanibel’s arts center: concerts, films, a speaker series, gallery shows and classes in an intimate theater.",
+   "tags": [
+    "Evening",
+    "Rainy day"
+   ]
+  },
+  {
+   "id": "wildlife-drive",
+   "n": "Ding Darling Wildlife Drive",
+   "c": "nature",
+   "a": "Sanibel",
+   "addr": "1 Wildlife Dr, Sanibel, FL 33957",
+   "must": 2,
+   "wiki": "J. N. \"Ding\" Darling National Wildlife Refuge",
+   "web": "https://www.fws.gov/refuge/jn-ding-darling",
+   "d": "A 4-mile one-way drive (or bike ride) through mangroves and tidal flats in the J.N. “Ding” Darling National Wildlife Refuge, famous for roseate spoonbills, pelicans and wading birds.",
+   "tip": "Come within two hours of low tide for the most birds. Bike it for a slower look.",
+   "when": "Sunrise to sunset; closed Fridays. $10 per vehicle.",
+   "tags": [
+    "Birds",
+    "Bikes"
+   ]
+  },
+  {
+   "id": "indigo",
+   "n": "Indigo Trail",
+   "c": "nature",
+   "a": "Sanibel",
+   "addr": "1 Wildlife Dr, Sanibel, FL 33957",
+   "d": "A flat trail through the refuge with a wildlife education boardwalk and observation pavilion.",
+   "when": "Open when Wildlife Drive is open; closed Fridays. Small fee.",
+   "tags": [
+    "Birds",
+    "Easy"
+   ]
+  },
+  {
+   "id": "bailey-tract",
+   "n": "Bailey Tract",
+   "c": "nature",
+   "a": "Sanibel",
+   "addr": "Tarpon Bay Rd, Sanibel, FL 33957",
+   "d": "A 100-acre freshwater marsh section of the refuge with easy loop trails around ponds. Look for alligators, wading birds and turtles.",
+   "when": "Sunrise to sunset; free.",
+   "tags": [
+    "Free",
+    "Easy",
+    "Gators"
+   ]
+  },
+  {
+   "id": "sccf-center",
+   "n": "SCCF Nature Center trails",
+   "c": "nature",
+   "a": "Sanibel",
+   "addr": "3333 Sanibel Captiva Rd, Sanibel, FL 33957",
+   "web": "https://sccf.org/",
+   "d": "Trails through the interior wetlands managed by the Sanibel-Captiva Conservation Foundation, a good look at the island’s freshwater side.",
+   "tags": [
+    "Easy"
+   ]
+  },
+  {
+   "id": "bailey-homestead",
+   "n": "Bailey Homestead Preserve",
+   "c": "nature",
+   "a": "Sanibel",
+   "addr": "1300 Periwinkle Way, Sanibel, FL 33957",
+   "d": "A historic homestead turned native-plant preserve with short trails and a pond, right off Periwinkle Way.",
+   "tags": [
+    "Free",
+    "Easy"
+   ]
+  },
+  {
+   "id": "pond-apple",
+   "n": "Pond Apple Park & Trail",
+   "c": "nature",
+   "a": "Sanibel",
+   "addr": "Pond Apple Park, Sanibel, FL 33957",
+   "d": "A short, shaded loop around a pond near City Hall. Easy for kids and a nice break from the sun.",
+   "tags": [
+    "Free",
+    "Easy",
+    "Kids"
+   ]
+  },
+  {
+   "id": "frannie",
+   "n": "Frannie’s Preserve",
+   "c": "nature",
+   "a": "Sanibel",
+   "addr": "520 Tarpon Bay Rd, Sanibel, FL 33957",
+   "d": "A small preserve with a short trail through native habitat near Tarpon Bay.",
+   "tags": [
+    "Free",
+    "Easy"
+   ]
+  },
+  {
+   "id": "bike-path",
+   "n": "Sanibel shared-use bike paths",
+   "c": "nature",
+   "a": "Island-wide",
+   "addr": "Periwinkle Way, Sanibel, FL 33957",
+   "d": "About 25 miles of paved paths run the length of the island. The easiest way to hop between beaches, shops and the refuge without hunting for parking.",
+   "tags": [
+    "Free",
+    "Bikes"
+   ]
+  },
+  {
+   "id": "tarpon-bay-explorers",
+   "n": "Tarpon Bay Explorers",
+   "c": "kayak",
+   "a": "Sanibel",
+   "addr": "900 Tarpon Bay Rd, Sanibel, FL 33957",
+   "must": 8,
+   "web": "https://tarponbayexplorers.com/",
+   "d": "The refuge’s official outfitter: guided kayak tours on the Commodore Creek water trail, kayak and paddleboard rentals, plus tram and boat tours of the refuge.",
+   "tip": "Morning tours are cooler and calmer.",
+   "tags": [
+    "Kids",
+    "Book ahead",
+    "Wildlife"
+   ]
+  },
+  {
+   "id": "adventure-sea-kayak",
+   "n": "Adventure Sea Kayak & SUP",
+   "c": "kayak",
+   "a": "Captiva",
+   "addr": "15951 Captiva Dr, Captiva, FL 33924",
+   "d": "Kayak and paddleboard rentals and tours in Captiva’s mangroves and bay waters.",
+   "tags": [
+    "Book ahead"
+   ]
+  },
+  {
+   "id": "captiva-watersports",
+   "n": "Captiva Watersports",
+   "c": "kayak",
+   "a": "Captiva",
+   "addr": "15951 Captiva Dr, Captiva, FL 33924",
+   "d": "Rentals and guided outings on the water from the ’Tween Waters area."
+  },
+  {
+   "id": "yolo",
+   "n": "YOLO Watersports",
+   "c": "kayak",
+   "a": "Captiva",
+   "addr": "11534 Andy Rosse Ln, Captiva, FL 33924",
+   "d": "Beach toys, paddleboards, bikes and more in Captiva village."
+  },
+  {
+   "id": "finnimores",
+   "n": "Finnimore’s Bike & Beach Rentals",
+   "c": "kayak",
+   "a": "Sanibel",
+   "addr": "2353 Periwinkle Way, Sanibel, FL 33957",
+   "d": "Bikes, beach chairs, umbrellas and gear. Biking is the easiest way around the island.",
+   "tags": [
+    "Bikes"
+   ]
+  },
+  {
+   "id": "captiva-cruises",
+   "n": "Captiva Cruises",
+   "c": "tours",
+   "a": "Captiva",
+   "addr": "11401 Andy Rosse Ln, Captiva, FL 33924",
+   "web": "https://captivacruises.com/",
+   "d": "Dolphin and wildlife cruises, sunset cruises and trips to out-islands like Cayo Costa and Cabbage Key from Captiva.",
+   "tags": [
+    "Dolphins",
+    "Book ahead"
+   ]
+  },
+  {
+   "id": "adventures-paradise",
+   "n": "Adventures in Paradise",
+   "c": "tours",
+   "a": "Fort Myers (just before the causeway)",
+   "addr": "14341 Port Comfort Rd, Fort Myers, FL 33908",
+   "d": "Sea-life encounter, dolphin and shelling cruises just off the causeway. Popular with families: crew pull up a net so kids can see what lives in the bay.",
+   "tags": [
+    "Kids",
+    "Dolphins",
+    "Book ahead"
+   ]
+  },
+  {
+   "id": "tarpon-bay-tram",
+   "n": "Ding Darling tram tour (Tarpon Bay Explorers)",
+   "c": "tours",
+   "a": "Sanibel",
+   "addr": "900 Tarpon Bay Rd, Sanibel, FL 33957",
+   "web": "https://tarponbayexplorers.com/",
+   "d": "A narrated tram ride along Wildlife Drive with a naturalist who knows where the birds are.",
+   "tags": [
+    "Kids",
+    "Birds"
+   ]
+  },
+  {
+   "id": "island-time",
+   "n": "Island Time Dolphin & Shelling Cruises",
+   "c": "tours",
+   "a": "Fort Myers Beach",
+   "addr": "17990 San Carlos Blvd, Fort Myers Beach, FL 33931",
+   "d": "Dolphin, shelling and sunset trips from the Fort Myers Beach side.",
+   "tags": [
+    "Dolphins"
+   ]
+  },
+  {
+   "id": "new-wave",
+   "n": "New Wave Eco Charters",
+   "c": "tours",
+   "a": "Captiva",
+   "addr": "15951 Captiva Dr, Captiva, FL 33924",
+   "d": "Private eco tours for dolphins, birds, shelling and island hopping.",
+   "tags": [
+    "Private"
+   ]
+  },
+  {
+   "id": "corey-billie",
+   "n": "Corey Billie’s Airboat Rides",
+   "c": "airboat",
+   "a": "East of Naples (~1 hr 20 min)",
+   "addr": "20610 Tamiami Trl E, Naples, FL 34114",
+   "d": "The closest classic Everglades airboat ride to Sanibel, with a gator show afterward. Good choice if you only have half a day.",
+   "tags": [
+    "Day trip",
+    "Kids",
+    "Gators"
+   ]
+  },
+  {
+   "id": "airboats-alligators",
+   "n": "Airboats & Alligators (Lake Trafford)",
+   "c": "airboat",
+   "a": "Immokalee (~1 hr 15 min)",
+   "addr": "6001 Lake Trafford Rd, Immokalee, FL 34142",
+   "d": "Airboat rides on Lake Trafford, known for alligators and huge numbers of wading birds, especially in winter.",
+   "tags": [
+    "Day trip",
+    "Gators",
+    "Birds"
+   ]
+  },
+  {
+   "id": "captain-jacks",
+   "n": "Captain Jack’s Airboat Tours",
+   "c": "airboat",
+   "a": "Everglades City (~1 hr 45 min)",
+   "addr": "905 Dupont St, Everglades City, FL 34139",
+   "d": "Small airboats (about six passengers) through the mangrove tunnels of the western Everglades, with combo tours that add a swamp buggy and an animal show.",
+   "tags": [
+    "Day trip",
+    "Small group"
+   ]
+  },
+  {
+   "id": "everglades-city-airboat",
+   "n": "Everglades City Airboat Tours",
+   "c": "airboat",
+   "a": "Everglades City (~1 hr 45 min)",
+   "addr": "907 Dupont St, Everglades City, FL 34139",
+   "d": "Locally owned six-passenger airboat tours through the mangroves, with headsets so you can hear the guide.",
+   "tags": [
+    "Day trip",
+    "Small group"
+   ]
+  },
+  {
+   "id": "wootens",
+   "n": "Wooten’s Everglades Airboat Tours",
+   "c": "airboat",
+   "a": "Ochopee (~1 hr 45 min)",
+   "addr": "32330 Tamiami Trl E, Ochopee, FL 34141",
+   "d": "A long-running Everglades stop with airboat and swamp buggy tours and an animal sanctuary.",
+   "tags": [
+    "Day trip",
+    "Gators"
+   ]
+  },
+  {
+   "id": "enp-adventures",
+   "n": "Everglades National Park Adventures",
+   "c": "everglades",
+   "a": "Everglades City (~1 hr 45 min)",
+   "addr": "815 Oyster Bar Ln, Everglades City, FL 34139",
+   "wiki": "Ten Thousand Islands",
+   "web": "https://www.nps.gov/ever/",
+   "d": "Quiet pontoon boat tours into the Ten Thousand Islands of Everglades National Park: dolphins, ospreys and endless mangrove islands, without the airboat noise.",
+   "when": "A national park entrance fee may apply in addition to the tour.",
+   "tags": [
+    "Day trip",
+    "Dolphins",
+    "Quiet"
+   ]
+  },
+  {
+   "id": "everglades-boat-tours",
+   "n": "Everglades Boat Tours (Chokoloskee)",
+   "c": "everglades",
+   "a": "Chokoloskee (~1 hr 50 min)",
+   "addr": "238 Mamie St, Chokoloskee, FL 34138",
+   "d": "Small-boat tours of the Ten Thousand Islands with local guides who share Calusa and pioneer history.",
+   "tags": [
+    "Day trip",
+    "Small group"
+   ]
+  },
+  {
+   "id": "capt-craig",
+   "n": "Captain Craig’s Everglades Boat Adventures",
+   "c": "everglades",
+   "a": "Chokoloskee (~1 hr 50 min)",
+   "addr": "100 Smallwood Dr, Chokoloskee, FL 34138",
+   "d": "Private and small-group trips with multi-generation local captains: island stops, shelling, dolphins and stories.",
+   "tags": [
+    "Day trip",
+    "Private"
+   ]
+  },
+  {
+   "id": "pier",
+   "n": "Lighthouse Beach fishing pier",
+   "c": "fishfree",
+   "a": "Sanibel (east end)",
+   "addr": "110 Periwinkle Way, Sanibel, FL 33957",
+   "d": "Fish San Carlos Bay from the pier by the lighthouse: snook, sheepshead, redfish and more, depending on season.",
+   "when": "Parking is paid; the lot may close at times for repairs. Use the smaller lot just west if so.",
+   "tags": [
+    "License needed"
+   ]
+  },
+  {
+   "id": "fish-causeway",
+   "n": "Causeway Islands shoreline",
+   "c": "fishfree",
+   "a": "Sanibel Causeway",
+   "addr": "19931 Sanibel Causeway, Sanibel, FL 33957",
+   "d": "Free parking and easy shoreline access. Fish the moving water around the bridges, especially early or late.",
+   "tags": [
+    "Free parking",
+    "License needed"
+   ]
+  },
+  {
+   "id": "fish-blind-pass",
+   "n": "Blind Pass",
+   "c": "fishfree",
+   "a": "Sanibel / Captiva line",
+   "addr": "17181 Captiva Dr, Captiva, FL 33924",
+   "d": "Fast water through the pass draws snook and other fish. Fish from the shoreline or the rocks, and mind the current.",
+   "tags": [
+    "License needed"
+   ]
+  },
+  {
+   "id": "fish-surf",
+   "n": "Surf fishing at Bowman’s Beach",
+   "c": "fishfree",
+   "a": "Sanibel (west end)",
+   "addr": "1700 Bowmans Beach Rd, Sanibel, FL 33957",
+   "d": "Wade the surf at dawn for snook running the beach in warm months, plus whiting and pompano.",
+   "tags": [
+    "License needed"
+   ]
+  },
+  {
+   "id": "sanibel-offshore",
+   "n": "Sanibel Offshore Fishing Charters",
+   "c": "fishpaid",
+   "a": "Sanibel Marina",
+   "addr": "634 N Yachtsman Dr, Sanibel, FL 33957",
+   "d": "Offshore and backcountry fishing plus dolphin tours from Sanibel Marina.",
+   "tags": [
+    "License included",
+    "Book ahead"
+   ]
+  },
+  {
+   "id": "shawn-kelly",
+   "n": "Capt. Shawn Kelly’s Sanibel Captiva Charters",
+   "c": "fishpaid",
+   "a": "Captiva",
+   "addr": "15107 Captiva Dr, Captiva, FL 33924",
+   "d": "Inshore fishing charters around Sanibel, Captiva and Pine Island Sound.",
+   "tags": [
+    "License included",
+    "Book ahead"
+   ]
+  },
+  {
+   "id": "andrews",
+   "n": "Andrews Fishing",
+   "c": "fishpaid",
+   "a": "Captiva",
+   "addr": "11401 Andy Rosse Ln, Captiva, FL 33924",
+   "d": "Inshore and nearshore fishing trips from Captiva.",
+   "tags": [
+    "License included",
+    "Book ahead"
+   ]
+  },
+  {
+   "id": "old-school",
+   "n": "Fish Old School",
+   "c": "fishpaid",
+   "a": "Captiva",
+   "addr": "11401 Andy Rosse Ln, Captiva, FL 33924",
+   "d": "Light-tackle charters in the backcountry around Captiva.",
+   "tags": [
+    "License included",
+    "Book ahead"
+   ]
+  },
+  {
+   "id": "capt-noah",
+   "n": "Captain Noah’s Sanibel Fishing",
+   "c": "fishpaid",
+   "a": "Fort Myers (by the causeway)",
+   "addr": "14341 Port Comfort Rd, Fort Myers, FL 33908",
+   "d": "Inshore fishing charters launching just before the causeway.",
+   "tags": [
+    "License included",
+    "Book ahead"
+   ]
+  },
+  {
+   "id": "fly-outfitters",
+   "n": "Sanibel Fly Outfitters",
+   "c": "fishpaid",
+   "a": "Sanibel",
+   "addr": "2240 Periwinkle Way Unit 11A, Sanibel, FL 33957",
+   "d": "Fly and light-tackle shop that can set you up with gear, advice and guided trips.",
+   "tags": [
+    "Guides",
+    "Gear"
+   ]
+  },
+  {
+   "id": "whitneys",
+   "n": "Whitney’s Bait & Tackle",
+   "c": "bait",
+   "a": "Sanibel",
+   "addr": "1554 Periwinkle Way, Sanibel, FL 33957",
+   "d": "The island’s go-to full-service tackle shop: live and frozen bait, rods, rentals, licenses and local fishing reports.",
+   "tags": [
+    "Rentals"
+   ]
+  },
+  {
+   "id": "bait-box",
+   "n": "The Bait Box",
+   "c": "bait",
+   "a": "Sanibel (east end)",
+   "addr": "1041 Periwinkle Way, Sanibel, FL 33957",
+   "d": "Bait, tackle and advice, close to the lighthouse pier."
+  },
+  {
+   "id": "fly-shop",
+   "n": "Sanibel Fly Outfitters (shop)",
+   "c": "bait",
+   "a": "Sanibel",
+   "addr": "2240 Periwinkle Way Unit 11A, Sanibel, FL 33957",
+   "d": "Fly-fishing gear, flies and know-how for wading the flats and beaches."
+  },
+  {
+   "id": "farmers-market",
+   "n": "Sanibel Island Farmers Market",
+   "c": "market",
+   "a": "Sanibel (City Hall)",
+   "addr": "800 Dunlop Rd, Sanibel, FL 33957",
+   "must": 9,
+   "web": "https://www.facebook.com/SANIBELFARMERSMARKET/",
+   "d": "About 50 vendors on the City Hall grounds: Florida produce and citrus, Gulf seafood, fresh bread and pastries, local honey, flowers and island art.",
+   "when": "Sundays 9 am–1 pm, October through May.",
+   "tags": [
+    "Sunday",
+    "Seasonal",
+    "Free entry"
+   ]
+  },
+  {
+   "id": "keylime",
+   "n": "Keylime Bistro",
+   "c": "music",
+   "a": "Captiva",
+   "addr": "11509 Andy Rosse Ln, Captiva, FL 33924",
+   "d": "Casual, colorful Captiva village restaurant known for live music on the porch.",
+   "tags": [
+    "Live music",
+    "Food"
+   ]
+  },
+  {
+   "id": "rc-otters",
+   "n": "RC Otter’s Island Eats",
+   "c": "music",
+   "a": "Captiva",
+   "addr": "11506 Andy Rosse Ln, Captiva, FL 33924",
+   "web": "https://rcotterscaptiva.com/",
+   "d": "Laid-back Captiva restaurant with live music and outdoor seating in the village.",
+   "tags": [
+    "Live music",
+    "Food"
+   ]
+  },
+  {
+   "id": "mucky-duck",
+   "n": "The Mucky Duck",
+   "c": "music",
+   "a": "Captiva",
+   "addr": "11546 Andy Rosse Ln, Captiva, FL 33924",
+   "web": "https://www.muckyduck.com/",
+   "d": "Beloved beachfront pub (reopened in 2026) where the whole beach gathers for sunset.",
+   "tip": "Arrive well before sunset for a table.",
+   "tags": [
+    "Sunset",
+    "Food"
+   ]
+  },
+  {
+   "id": "tween-waters",
+   "n": "’Tween Waters (Crow’s Nest & Oasis Pool Bar)",
+   "c": "music",
+   "a": "Captiva",
+   "addr": "15951 Captiva Dr, Captiva, FL 33924",
+   "web": "https://tween-waters.com/event/live-music/",
+   "d": "Captiva resort with regular live music: acoustic sets at the pool bar and bands at the Crow’s Nest. Check their calendar for who’s playing.",
+   "tags": [
+    "Live music",
+    "Food"
+   ]
+  },
+  {
+   "id": "jensens",
+   "n": "Jensen’s Twin Palm Marina",
+   "c": "music",
+   "a": "Captiva",
+   "addr": "15107 Captiva Dr, Captiva, FL 33924",
+   "d": "Old-Florida marina on the bay side of Captiva with pop-up live music and a relaxed waterfront hangout.",
+   "tags": [
+    "Live music"
+   ]
+  },
+  {
+   "id": "big-arts-music",
+   "n": "Concerts at BIG ARTS",
+   "c": "music",
+   "a": "Sanibel",
+   "addr": "900 Dunlop Rd, Sanibel, FL 33957",
+   "web": "https://www.bigarts.org/",
+   "d": "Ticketed concerts from bluegrass to jazz and classical in an intimate theater.",
+   "tags": [
+    "Tickets"
+   ]
+  },
+  {
+   "id": "chamber-events",
+   "n": "Sanibel-Captiva events calendar",
+   "c": "events",
+   "a": "Online",
+   "addr": "1159 Causeway Rd, Sanibel, FL 33957",
+   "web": "https://sanibel-captiva.org/events/",
+   "d": "The Chamber of Commerce’s calendar of island festivals, concerts, fundraisers and seasonal events. Stop at the visitor center as you come off the causeway for maps and advice.",
+   "tags": [
+    "Calendar"
+   ]
+  },
+  {
+   "id": "shell-show",
+   "n": "Sanibel Shell Show & Festival",
+   "c": "events",
+   "a": "Sanibel Community House",
+   "addr": "2173 Periwinkle Way, Sanibel, FL 33957",
+   "d": "The island’s signature event: shell art and scientific displays, shell crafts and vendors.",
+   "when": "Early March each year.",
+   "tags": [
+    "Annual"
+   ]
+  },
+  {
+   "id": "island-hopper",
+   "n": "Island Hopper Songwriter Fest",
+   "c": "events",
+   "a": "Captiva & Fort Myers",
+   "addr": "11509 Andy Rosse Ln, Captiva, FL 33924",
+   "d": "Songwriters from Nashville and beyond play dozens of mostly free shows at Captiva venues like Keylime Bistro, RC Otter’s, ’Tween Waters and Jensen’s.",
+   "when": "Each September (Sept 18–20 on Captiva in 2026).",
+   "tags": [
+    "Annual",
+    "Live music",
+    "Free"
+   ]
+  },
+  {
+   "id": "sccf-events",
+   "n": "SCCF events & walks",
+   "c": "events",
+   "a": "Sanibel",
+   "addr": "3333 Sanibel Captiva Rd, Sanibel, FL 33957",
+   "web": "https://sccf.org/calendar/",
+   "d": "Guided nature walks, talks and conservation programs from the Sanibel-Captiva Conservation Foundation.",
+   "tags": [
+    "Calendar",
+    "Learn"
+   ]
+  },
+  {
+   "id": "big-arts-events",
+   "n": "BIG ARTS season",
+   "c": "events",
+   "a": "Sanibel",
+   "addr": "900 Dunlop Rd, Sanibel, FL 33957",
+   "web": "https://www.bigarts.org/",
+   "d": "Concerts, films, theater and a well-known speaker series, mostly in winter and spring.",
+   "tags": [
+    "Calendar",
+    "Evening"
+   ]
+  },
+  {
+   "id": "visitor-center",
+   "n": "Sanibel & Captiva Islands Visitor Center",
+   "c": "events",
+   "a": "Sanibel (off the causeway)",
+   "addr": "1159 Causeway Rd, Sanibel, FL 33957",
+   "d": "Maps, brochures, beach parking info and friendly local advice. Snap a photo at the giant shell heart.",
+   "tags": [
+    "Free"
+   ]
+  },
+  {
+   "id": "magic-bus",
+   "n": "The Magic Bus Ice Cream & Caffeine",
+   "c": "icecream",
+   "a": "Sanibel (near the lighthouse)",
+   "addr": "362 Periwinkle Way #4, Sanibel, FL 33957",
+   "d": "Ice cream and coffee from a VW-bus-themed shop near the lighthouse. A natural stop after the beach.",
+   "tags": [
+    "Kids"
+   ]
+  },
+  {
+   "id": "pinocchios",
+   "n": "Pinocchio’s Original Italian Ice Cream",
+   "c": "icecream",
+   "a": "Sanibel (Periwinkle Place)",
+   "addr": "2075 Periwinkle Way #33, Sanibel, FL 33957",
+   "d": "Longtime island favorite for homemade Italian-style ice cream.",
+   "tags": [
+    "Kids"
+   ]
+  },
+  {
+   "id": "love-boat",
+   "n": "Love Boat Ice Cream",
+   "c": "icecream",
+   "a": "Sanibel (Jerry’s center)",
+   "addr": "1700 Periwinkle Way #9, Sanibel, FL 33957",
+   "d": "Generous scoops and sundaes next to Jerry’s grocery.",
+   "tags": [
+    "Kids"
+   ]
+  },
+  {
+   "id": "shack",
+   "n": "The Shack of Sanibel",
+   "c": "icecream",
+   "a": "Sanibel",
+   "addr": "1219 Periwinkle Way, Sanibel, FL 33957",
+   "d": "Quick-service spot for sandwiches, treats and ice cream.",
+   "tags": [
+    "Quick bite"
+   ]
+  },
+  {
+   "id": "deli-coffee",
+   "n": "Sanibel Deli & Coffee Factory",
+   "c": "icecream",
+   "a": "Sanibel",
+   "addr": "2330 Palm Ridge Rd, Sanibel, FL 33957",
+   "d": "Coffee, breakfast, deli sandwiches and ice cream in one stop.",
+   "tags": [
+    "Coffee"
+   ]
+  },
+  {
+   "id": "boops",
+   "n": "Boops",
+   "c": "icecream",
+   "a": "Captiva",
+   "addr": "Andy Rosse Ln, Captiva, FL 33924",
+   "d": "Captiva coffee and dessert café in the village.",
+   "tags": [
+    "Coffee"
+   ]
+  },
+  {
+   "id": "she-sells",
+   "n": "She Sells Sea Shells",
+   "c": "shellshop",
+   "a": "Sanibel",
+   "addr": "1157 Periwinkle Way, Sanibel, FL 33957",
+   "web": "https://www.facebook.com/SheSellsSS/",
+   "d": "Famous shell shop packed with specimen shells, shell art, mirrors and gifts."
+  },
+  {
+   "id": "tuttles",
+   "n": "Tuttle’s Seahorse Shell Shop",
+   "c": "shellshop",
+   "a": "Sanibel (near the lighthouse)",
+   "addr": "362 Periwinkle Way #3, Sanibel, FL 33957",
+   "d": "Small shop full of shells and shell crafts near the lighthouse end of the island."
+  },
+  {
+   "id": "seashell-industries",
+   "n": "Sanibel Seashell Industries",
+   "c": "shellshop",
+   "a": "Sanibel",
+   "addr": "1544 Periwinkle Way, Sanibel, FL 33957",
+   "d": "Shells, shell-craft supplies and gifts for shell projects."
+  },
+  {
+   "id": "museum-shop",
+   "n": "Shell Museum gift shop",
+   "c": "shellshop",
+   "a": "Sanibel",
+   "addr": "3075 Sanibel Captiva Rd, Sanibel, FL 33957",
+   "web": "https://www.shellmuseum.org/",
+   "d": "Shell books, ID guides and well-made shell gifts at the museum."
+  },
+  {
+   "id": "island-gifts",
+   "n": "Island Gifts",
+   "c": "gifts",
+   "a": "Sanibel",
+   "addr": "1609 Periwinkle Way, Sanibel, FL 33957",
+   "d": "T-shirts, beach gear and classic Sanibel souvenirs."
+  },
+  {
+   "id": "suncatchers",
+   "n": "Suncatchers Dream",
+   "c": "gifts",
+   "a": "Sanibel (Village Shops)",
+   "addr": "2340 Periwinkle Way Ste A1, Sanibel, FL 33957",
+   "d": "Stained-glass suncatchers and coastal decor."
+  },
+  {
+   "id": "olde-sanibel",
+   "n": "Olde Sanibel Shoppes",
+   "c": "gifts",
+   "a": "Sanibel",
+   "addr": "630 Tarpon Bay Rd, Sanibel, FL 33957",
+   "d": "Small cluster of shops and a café near Tarpon Bay Road."
+  },
+  {
+   "id": "sanibel-center",
+   "n": "Sanibel Center",
+   "c": "gifts",
+   "a": "Sanibel",
+   "addr": "1711 Periwinkle Way, Sanibel, FL 33957",
+   "d": "Shopping center with gift and apparel shops in the middle of Periwinkle Way."
+  },
+  {
+   "id": "crow-shop",
+   "n": "CROW gift shop",
+   "c": "gifts",
+   "a": "Sanibel",
+   "addr": "3883 Sanibel Captiva Rd, Sanibel, FL 33957",
+   "d": "Wildlife-themed gifts; purchases support the wildlife hospital."
+  },
+  {
+   "id": "jerrys",
+   "n": "Jerry’s Foods",
+   "c": "grocery",
+   "a": "Sanibel",
+   "addr": "1700 Periwinkle Way, Sanibel, FL 33957",
+   "d": "Full-service grocery with deli, bakery, meat and seafood. The island’s biggest store.",
+   "tags": [
+    "Full grocery"
+   ]
+  },
+  {
+   "id": "baileys",
+   "n": "Bailey’s General Store",
+   "c": "grocery",
+   "a": "Sanibel",
+   "addr": "975 Rabbit Rd, Sanibel, FL 33957",
+   "web": "https://www.baileys-sanibel.com/stores/baileys-general-store",
+   "d": "Family-run island grocery since 1899, with a butcher, deli, bakery and prepared foods.",
+   "tags": [
+    "Full grocery"
+   ]
+  },
+  {
+   "id": "huxters",
+   "n": "Huxters Market & Deli",
+   "c": "grocery",
+   "a": "Sanibel (east end)",
+   "addr": "1203 Periwinkle Way, Sanibel, FL 33957",
+   "d": "Convenience store and deli for quick supplies, drinks and ice.",
+   "tags": [
+    "Quick stop"
+   ]
+  },
+  {
+   "id": "island-store",
+   "n": "Island Store (Captiva)",
+   "c": "grocery",
+   "a": "Captiva",
+   "addr": "Andy Rosse Ln, Captiva, FL 33924",
+   "d": "Captiva’s small market for snacks, sandwiches and essentials.",
+   "tags": [
+    "Quick stop"
+   ]
+  },
+  {
+   "id": "ace",
+   "n": "Forever Green Ace Hardware",
+   "c": "hardware",
+   "a": "Sanibel",
+   "addr": "2025 Periwinkle Way, Sanibel, FL 33957",
+   "d": "Hardware, beach supplies, coolers, grills, garden and household basics."
+  },
+  {
+   "id": "cvs",
+   "n": "CVS Pharmacy",
+   "c": "drug",
+   "a": "Sanibel",
+   "addr": "2331 Palm Ridge Rd, Sanibel, FL 33957",
+   "d": "Pharmacy, sunscreen, first aid and everyday essentials."
+  },
+  {
+   "id": "edison-ford",
+   "n": "Edison & Ford Winter Estates",
+   "c": "daytrip",
+   "a": "Fort Myers (~35 min)",
+   "addr": "2350 McGregor Blvd, Fort Myers, FL 33901",
+   "must": 10,
+   "wiki": "Edison and Ford Winter Estates",
+   "web": "https://www.edisonford.org/",
+   "d": "The winter homes, botanical gardens and laboratory of Thomas Edison and Henry Ford along the Caloosahatchee River.",
+   "tags": [
+    "Rainy day",
+    "History"
+   ]
+  },
+  {
+   "id": "lovers-key",
+   "n": "Lovers Key State Park",
+   "c": "daytrip",
+   "a": "Fort Myers Beach (~40 min)",
+   "addr": "8700 Estero Blvd, Fort Myers Beach, FL 33931",
+   "wiki": "Lovers Key State Park",
+   "web": "https://www.floridastateparks.org/Lovers-Key",
+   "d": "Long, natural beach and trails with a good chance of manatees and dolphins. Recovering from Hurricane Milton; the beach and trails are open.",
+   "when": "State park entrance fee per vehicle.",
+   "tags": [
+    "Beach",
+    "Trails"
+   ]
+  },
+  {
+   "id": "everglades-np",
+   "n": "Everglades National Park (Gulf Coast)",
+   "c": "daytrip",
+   "a": "Everglades City (~1 hr 45 min)",
+   "addr": "815 Oyster Bar Ln, Everglades City, FL 34139",
+   "wiki": "Everglades National Park",
+   "web": "https://www.nps.gov/ever/",
+   "d": "The western gateway to Everglades National Park and the Ten Thousand Islands. Pair a boat or airboat tour with lunch in Everglades City or Chokoloskee.",
+   "tags": [
+    "Day trip"
+   ]
+  }
+ ],
+ "shells": [
+  {
+   "id": "lightning-whelk",
+   "name": "Lightning Whelk",
+   "sci": "Sinistrofulgur sinistrum (Hollister, 1958)",
+   "fam": "Busyconidae",
+   "g": "univalve",
+   "size": "up to 15\"",
+   "freq": "Common",
+   "shape": "spindle",
+   "colors": [
+    "tan",
+    "white",
+    "brown"
+   ],
+   "idp": [
+    "Opening is on the LEFT when the point faces up. That is the giveaway: almost every other spiral shell opens on the right.",
+    "Heavy, pear-shaped shell with small knobs on the shoulder.",
+    "Young shells have brown zig-zag “lightning” streaks; big old ones fade to tan or white."
+   ],
+   "alike": "[[pear-whelk]] opens on the right and has no knobs, just a channel along the spiral.",
+   "where": "Bay sides and Gulf beaches all over the islands, often in pieces. Whole adults turn up after winter fronts. Its long strings of papery egg cases wash up too.",
+   "fact": "Florida’s most common big whelk. The egg-case string looks like a dried snake skin; each capsule holds tiny baby whelks.",
+   "wiki": [
+    "Lightning whelk",
+    "Sinistrofulgur sinistrum"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/lightning-whelk",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "pear-whelk",
+   "name": "Pear Whelk",
+   "sci": "Fulguropsis spirata (Lamarck, 1816)",
+   "fam": "Busyconidae",
+   "g": "univalve",
+   "size": "up to 5\"",
+   "freq": "Uncommon",
+   "shape": "spindle",
+   "colors": [
+    "tan",
+    "cream",
+    "brown"
+   ],
+   "idp": [
+    "Fig- or pear-shaped with a long tapering canal.",
+    "Opening is on the RIGHT.",
+    "A deep channel runs along the seam of the spiral; smooth shoulders with no knobs."
+   ],
+   "alike": "[[lightning-whelk]] opens on the left and has knobs.",
+   "where": "Gulf beaches, more often after rough weather.",
+   "fact": "Lives in sandy shallows and eats clams, like its whelk cousins.",
+   "wiki": [
+    "Fulguropsis spirata",
+    "Busycotypus spiratus"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/pear-whelk",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "fighting-conch",
+   "name": "Florida Fighting Conch",
+   "sci": "Strombus alatus Gmelin, 1791",
+   "fam": "Strombidae",
+   "g": "univalve",
+   "size": "up to 4\"",
+   "freq": "Common",
+   "shape": "conch",
+   "colors": [
+    "orange",
+    "brown",
+    "purple"
+   ],
+   "idp": [
+    "Solid, chunky shell with a flared lip and a short pointed spire.",
+    "Rich orange to mahogany brown, often mottled or banded.",
+    "Spines on the shoulder in some shells, smooth in others. Young shells are slender and paler."
+   ],
+   "alike": "[[crown-conch]] has rows of sharp spines and a darker, banded look.",
+   "where": "One of the most common shells on Sanibel’s Gulf beaches. Live ones are often in the shallows at low tide; leave them be.",
+   "fact": "It gets around by jabbing its sickle-shaped “trapdoor” (operculum) into the sand and lurching forward. Flip one over in the shallows and watch it right itself.",
+   "wiki": [
+    "Strombus alatus"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/florida-fighting-conch",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "horse-conch",
+   "name": "Florida Horse Conch",
+   "sci": "Triplofusus giganteus (Kiener, 1840)",
+   "fam": "Fasciolariidae",
+   "g": "univalve",
+   "size": "up to 20\"",
+   "freq": "Uncommon",
+   "shape": "spindle",
+   "colors": [
+    "orange",
+    "tan",
+    "gray"
+   ],
+   "idp": [
+    "Long spindle shape with 5 to 7 spiral cords and knobby shoulders.",
+    "Young shells are bright orange; adults are gray-white to salmon under a flaky brown skin.",
+    "Three folds on the inner column of the opening."
+   ],
+   "alike": "[[true-tulip]] and [[banded-tulip]] are smaller and smoother, with painted lines or spots.",
+   "where": "Juveniles (bright orange) show up on Gulf beaches; big adults are mostly offshore.",
+   "fact": "Florida’s state shell and the largest snail in American waters. The world-record specimen, almost 24 inches, came from off Sanibel.",
+   "wiki": [
+    "Triplofusus giganteus"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/horse-conch",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "banded-tulip",
+   "name": "Banded Tulip",
+   "sci": "Cinctura hunteria (G. Perry, 1811)",
+   "fam": "Fasciolariidae",
+   "g": "univalve",
+   "size": "up to 4.5\"",
+   "freq": "Common",
+   "shape": "spindle",
+   "colors": [
+    "gray",
+    "blue",
+    "purple",
+    "brown"
+   ],
+   "idp": [
+    "Smooth spindle shape.",
+    "5 to 6 thin, widely spaced dark-brown spiral lines that never break into dashes.",
+    "Bluish-gray background mottled with purple-brown."
+   ],
+   "alike": "[[true-tulip]] is larger, with many more spiral lines that are broken into dashes.",
+   "where": "Gulf and bay beaches, often near grass beds.",
+   "fact": "It preys on other snails, including other tulips.",
+   "wiki": [
+    "Cinctura hunteria",
+    "Banded tulip"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/banded-tulip",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "true-tulip",
+   "name": "True Tulip",
+   "sci": "Fasciolaria tulipa (Linnaeus, 1758)",
+   "fam": "Fasciolariidae",
+   "g": "univalve",
+   "size": "up to 9\"",
+   "freq": "Uncommon",
+   "shape": "spindle",
+   "colors": [
+    "orange",
+    "red",
+    "brown",
+    "cream"
+   ],
+   "idp": [
+    "Bigger and heavier than the banded tulip.",
+    "Many fine spiral lines that are broken into dashes.",
+    "Colors vary a lot: cream, orange, red-brown, often blotchy."
+   ],
+   "alike": "[[banded-tulip]] has just a few unbroken lines.",
+   "where": "Gulf beaches, more often after storms.",
+   "fact": "Its egg cases look like a cluster of frilly vases.",
+   "wiki": [
+    "Fasciolaria tulipa"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/true-tulip",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "crown-conch",
+   "name": "Florida Crown Conch",
+   "sci": "Melongena corona (Gmelin, 1791)",
+   "fam": "Melongenidae",
+   "g": "univalve",
+   "size": "up to 5\"",
+   "freq": "Common",
+   "shape": "conch",
+   "colors": [
+    "brown",
+    "white",
+    "cream"
+   ],
+   "idp": [
+    "Rows of sharp spines around the shoulder like a crown.",
+    "Dark brown with creamy-white spiral bands.",
+    "Very variable: some have one row of spines, some several."
+   ],
+   "alike": "[[fighting-conch]] is orange-brown with a flared lip and only blunt knobs.",
+   "where": "Bay side and mangrove shorelines more than the Gulf: try the causeway and the lighthouse’s bay side.",
+   "fact": "A scavenger that gathers on anything dead on the mud flats.",
+   "wiki": [
+    "Melongena corona"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/crown-conch",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "lettered-olive",
+   "name": "Lettered Olive",
+   "sci": "Americoliva sayana (Ravenel, 1834)",
+   "fam": "Olividae",
+   "g": "univalve",
+   "size": "up to 2.5\"",
+   "freq": "Common",
+   "shape": "cylinder",
+   "colors": [
+    "tan",
+    "gray",
+    "brown",
+    "yellow"
+   ],
+   "idp": [
+    "Glossy, polished, bullet-shaped shell that looks freshly varnished.",
+    "Short spire and a long narrow opening.",
+    "Tan to gray with brown tent-shaped zig-zags that look like writing."
+   ],
+   "alike": "Nothing common on Sanibel is as glossy and cylindrical. A rare golden form (“citrina”) also turns up.",
+   "where": "Sandy Gulf beaches like Tarpon Bay Road Beach and along West Gulf Drive. Look in the swash at low tide.",
+   "fact": "South Carolina’s state shell. Live ones plow just under the sand and leave little trails.",
+   "wiki": [
+    "Lettered olive",
+    "Americoliva sayana"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/lettered-olive",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "shark-eye",
+   "name": "Shark Eye",
+   "sci": "Neverita duplicata (Say, 1822)",
+   "fam": "Naticidae",
+   "g": "univalve",
+   "size": "up to 3\"",
+   "freq": "Common",
+   "shape": "round",
+   "colors": [
+    "gray",
+    "tan",
+    "purple"
+   ],
+   "idp": [
+    "Rounded, smooth moon snail with a low spiral.",
+    "Seen from the top, the spiral looks like an eye.",
+    "A purple-brown pad (callus) nearly covers the navel hole."
+   ],
+   "alike": "[[babys-ear]] is flat and ear-shaped with a huge opening.",
+   "where": "Gulf beaches island-wide.",
+   "fact": "A predator that drills a neat round hole in clams. Those beveled holes in clam shells are its handiwork, and its “sand collar” egg masses wash up too.",
+   "wiki": [
+    "Neverita duplicata"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/shark-eye",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "babys-ear",
+   "name": "White Baby’s Ear",
+   "sci": "Sinum perspectivum (Say, 1831)",
+   "fam": "Naticidae",
+   "g": "univalve",
+   "size": "up to 2\"",
+   "freq": "Uncommon",
+   "shape": "ear",
+   "colors": [
+    "white"
+   ],
+   "idp": [
+    "Very flat, white, ear-shaped shell.",
+    "Huge opening covering most of the underside.",
+    "Fine spiral lines on the top."
+   ],
+   "alike": "[[shark-eye]] is rounded and thick.",
+   "where": "Gulf beaches; easy to miss because it’s small and white.",
+   "fact": "In life the animal’s body is so big it covers the whole shell.",
+   "wiki": [
+    "Sinum perspectivum"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/white-baby-ear",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "junonia",
+   "name": "Junonia",
+   "sci": "Scaphella junonia (Lamarck, 1804)",
+   "fam": "Volutidae",
+   "g": "univalve",
+   "size": "up to 6\"",
+   "freq": "Very rare",
+   "shape": "spindle",
+   "colors": [
+    "white",
+    "pink",
+    "brown"
+   ],
+   "idp": [
+    "Smooth, creamy-white to pinkish spindle.",
+    "Spiral rows of squarish brown or reddish-brown spots, like a giraffe pattern.",
+    "Four folds on the inner column."
+   ],
+   "alike": "The [[alphabet-cone]] has similar spots but is a cone shape with a flat top.",
+   "where": "Lives in deeper water offshore. A few wash up each year on Gulf beaches, mostly after winter storms.",
+   "fact": "Sanibel’s most famous find. By island tradition, lucky finders get their photo in the local paper.",
+   "wiki": [
+    "Scaphella junonia"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/junonia",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "alphabet-cone",
+   "name": "Alphabet Cone",
+   "sci": "Conus spurius Gmelin, 1791",
+   "fam": "Conidae",
+   "g": "univalve",
+   "size": "up to 3\"",
+   "freq": "Uncommon",
+   "shape": "cone",
+   "colors": [
+    "white",
+    "orange",
+    "brown"
+   ],
+   "idp": [
+    "Classic cone shape with a nearly flat top.",
+    "White with spiral rows of orange-brown spots and squiggles that look like letters."
+   ],
+   "alike": "[[florida-cone]] is smaller and more mottled, with a raised spire.",
+   "where": "Gulf beaches, especially after winter fronts.",
+   "fact": "Cone snails hunt with a venomous harpoon. Don’t handle live ones.",
+   "wiki": [
+    "Conus spurius"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/alphabet-cone",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "florida-cone",
+   "name": "Florida Cone",
+   "sci": "Conus anabathrum Crosse, 1865",
+   "fam": "Conidae",
+   "g": "univalve",
+   "size": "up to 2\"",
+   "freq": "Uncommon",
+   "shape": "cone",
+   "colors": [
+    "white",
+    "yellow",
+    "orange",
+    "brown"
+   ],
+   "idp": [
+    "Cone shape with a taller, stepped spire than the alphabet cone.",
+    "White to yellowish with orange-brown blotches and dotted spiral lines."
+   ],
+   "alike": "[[alphabet-cone]] has a flatter top and neat rows of letter-like spots.",
+   "where": "Gulf beaches.",
+   "fact": "It eats marine worms. Leave live ones alone: cones can sting.",
+   "wiki": [
+    "Conus anabathrum"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/florida-cone",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "apple-murex",
+   "name": "Apple Murex",
+   "sci": "Phyllonotus pomum (Gmelin, 1791)",
+   "fam": "Muricidae",
+   "g": "univalve",
+   "size": "up to 4.5\"",
+   "freq": "Uncommon",
+   "shape": "murex",
+   "colors": [
+    "tan",
+    "brown",
+    "orange"
+   ],
+   "idp": [
+    "Heavy, rough shell with three frilly ridges (varices) per turn.",
+    "Tan to brown, often with darker bands.",
+    "Opening often glossy orange or peach inside."
+   ],
+   "alike": "[[lace-murex]] is lighter, with long, lacy spines.",
+   "where": "Bay side and Gulf beaches.",
+   "fact": "Murex snails were once a source of purple dye in the ancient world.",
+   "wiki": [
+    "Phyllonotus pomum"
+   ],
+   "ref": "https://jaxshells.org/p2044.htm",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "lace-murex",
+   "name": "Lace Murex",
+   "sci": "Chicoreus florifer (Reeve, 1846)",
+   "fam": "Muricidae",
+   "g": "univalve",
+   "size": "up to 3\"",
+   "freq": "Uncommon",
+   "shape": "murex",
+   "colors": [
+    "brown",
+    "white",
+    "pink"
+   ],
+   "idp": [
+    "Three ridges per turn, each with long, frilly, lace-like spines.",
+    "Brown to dark brown; the tip of the spire is often pink."
+   ],
+   "alike": "[[apple-murex]] is heavier with short, rough ridges.",
+   "where": "Bay side and around rocks and jetties.",
+   "fact": "Older books call it Chicoreus dilectus; the Shell Museum now lists it as Chicoreus florifer.",
+   "wiki": [
+    "Chicoreus florifer"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/lace-murex",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "wentletrap",
+   "name": "Angulate Wentletrap",
+   "sci": "Epitonium angulatum (Say, 1831)",
+   "fam": "Epitoniidae",
+   "g": "univalve",
+   "size": "up to 1\"",
+   "freq": "Uncommon",
+   "shape": "tall spiral",
+   "colors": [
+    "white"
+   ],
+   "idp": [
+    "Tiny, pure white, tall spiral.",
+    "Raised, evenly spaced ribs that cross every turn, like a spiral staircase.",
+    "Round opening."
+   ],
+   "alike": "Several wentletraps live here; this is the one most often found.",
+   "where": "Gulf beaches, in the fine shell rubble at the tide line.",
+   "fact": "“Wendeltreppe” is German for spiral staircase. They feed on sea anemones.",
+   "wiki": [
+    "Epitonium angulatum"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/angulate-wentletrap",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "scotch-bonnet",
+   "name": "Scotch Bonnet",
+   "sci": "Semicassis granulata (Born, 1778)",
+   "fam": "Cassidae",
+   "g": "univalve",
+   "size": "up to 4\"",
+   "freq": "Rare",
+   "shape": "round",
+   "colors": [
+    "cream",
+    "orange",
+    "brown"
+   ],
+   "idp": [
+    "Rounded, bonnet-shaped shell with spiral grooves.",
+    "Creamy white with rows of square orange-brown spots, like plaid.",
+    "Thick, toothed outer lip."
+   ],
+   "alike": "[[junonia]] has similar spots but is a slender spindle.",
+   "where": "Washes in from offshore after storms.",
+   "fact": "North Carolina’s state shell. It eats sea urchins and sand dollars.",
+   "wiki": [
+    "Semicassis granulata"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/scotch-bonnet",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "rocksnail",
+   "name": "Florida Rocksnail",
+   "sci": "Stramonita haemastoma (Linnaeus, 1767)",
+   "fam": "Muricidae",
+   "g": "univalve",
+   "size": "up to 3\"",
+   "freq": "Common",
+   "shape": "spindle",
+   "colors": [
+    "gray",
+    "brown",
+    "orange"
+   ],
+   "idp": [
+    "Thick, rough, gray to brown shell with knobby shoulders.",
+    "Opening is salmon to orange inside."
+   ],
+   "alike": "[[crown-conch]] has sharp spines and banding.",
+   "where": "On rocks, jetties, pilings and oyster bars more than open beach.",
+   "fact": "A major predator of oysters; it drills or pries them open.",
+   "wiki": [
+    "Stramonita haemastoma"
+   ],
+   "ref": "https://jaxshells.org/stram1.htm",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "nutmeg",
+   "name": "Common Nutmeg",
+   "sci": "Cancellaria reticulata (Linnaeus, 1767)",
+   "fam": "Cancellariidae",
+   "g": "univalve",
+   "size": "up to 2\"",
+   "freq": "Uncommon",
+   "shape": "spindle",
+   "colors": [
+    "cream",
+    "brown"
+   ],
+   "idp": [
+    "Chunky little shell with a crisscross, basket-weave texture.",
+    "Cream with brown bands or blotches.",
+    "Folds on the inner column of the opening."
+   ],
+   "alike": "Nothing else common on Sanibel has that woven texture.",
+   "where": "Gulf beaches.",
+   "fact": "Named because it looks a bit like a nutmeg seed.",
+   "wiki": [
+    "Common nutmeg",
+    "Cancellaria reticulata"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/common-nutmeg",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "slipper",
+   "name": "Common Atlantic Slipper Snail",
+   "sci": "Crepidula fornicata (Linnaeus, 1758)",
+   "fam": "Calyptraeidae",
+   "g": "univalve",
+   "size": "up to 2\"",
+   "freq": "Common",
+   "shape": "slipper",
+   "colors": [
+    "white",
+    "tan",
+    "brown"
+   ],
+   "idp": [
+    "Oval, cup-shaped shell with a shelf (“deck”) across half the inside, like a slipper.",
+    "Smooth outside, often streaked with brown."
+   ],
+   "alike": "[[jingle]] shells are thin and have no inner shelf.",
+   "where": "All beaches, often stuck on other shells.",
+   "fact": "They stack on top of each other; the bottom ones are female and the top ones male.",
+   "wiki": [
+    "Crepidula fornicata"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/common-atlantic-slipper-snail",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "chestnut-turban",
+   "name": "Chestnut Turban",
+   "sci": "Turbo castanea Gmelin, 1791",
+   "fam": "Turbinidae",
+   "g": "univalve",
+   "size": "up to 1.5\"",
+   "freq": "Uncommon",
+   "shape": "round",
+   "colors": [
+    "orange",
+    "brown",
+    "green"
+   ],
+   "idp": [
+    "Small, top-shaped shell with beaded spiral rows.",
+    "Orange-brown to greenish, often mottled.",
+    "Round opening; pearly inside when worn."
+   ],
+   "alike": "Small top snails are flatter-based and pointier.",
+   "where": "Gulf beaches, in shell piles.",
+   "fact": "Its round, hard “trapdoor” sometimes washes up on its own.",
+   "wiki": [
+    "Turbo castanea"
+   ],
+   "ref": "https://shells.shellmuseum.org/shell/turbo-castanea/",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "calico-scallop",
+   "name": "Atlantic Calico Scallop",
+   "sci": "Argopecten gibbus (Linnaeus, 1758)",
+   "fam": "Pectinidae",
+   "g": "bivalve",
+   "size": "up to 2.5\"",
+   "freq": "Common",
+   "shape": "fan",
+   "colors": [
+    "red",
+    "purple",
+    "orange",
+    "white",
+    "yellow"
+   ],
+   "idp": [
+    "Classic scallop fan with about 20 ribs and two small “ears” at the hinge.",
+    "Bright mottled colors: red, purple, orange, white, yellow; every one is different.",
+    "Bottom half is usually paler than the top."
+   ],
+   "alike": "[[lions-paw]] is much bigger with knobby, bumpy ribs. [[kittens-paw]] has no ears and a few heavy, wavy ribs.",
+   "where": "Gulf beaches, sometimes by the thousands after winter fronts.",
+   "fact": "Scallops have dozens of tiny blue eyes along the edge of the shell.",
+   "wiki": [
+    "Argopecten gibbus"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/atlantic-calico-scallop",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "lions-paw",
+   "name": "Lion’s Paw",
+   "sci": "Nodipecten fragosus (Conrad, 1849)",
+   "fam": "Pectinidae",
+   "g": "bivalve",
+   "size": "up to 6\"",
+   "freq": "Rare",
+   "shape": "fan",
+   "colors": [
+    "red",
+    "orange",
+    "maroon"
+   ],
+   "idp": [
+    "Large, heavy scallop with big hollow knobs along about 7 to 9 broad ribs.",
+    "Deep red, orange or maroon.",
+    "Ears at the hinge, one larger than the other."
+   ],
+   "alike": "[[calico-scallop]] is small with many fine ribs; [[kittens-paw]] has no ears.",
+   "where": "Lives offshore; a prize find on Gulf beaches, mostly after strong storms.",
+   "fact": "Older books list it as Nodipecten nodosus; the Gulf of Mexico form is now usually called Nodipecten fragosus.",
+   "wiki": [
+    "Nodipecten fragosus",
+    "Nodipecten nodosus"
+   ],
+   "ref": "https://jaxshells.org/nodi.htm",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "kittens-paw",
+   "name": "Atlantic Kitten’s Paw",
+   "sci": "Plicatula gibbosa Lamarck, 1801",
+   "fam": "Plicatulidae",
+   "g": "bivalve",
+   "size": "up to 1\"",
+   "freq": "Common",
+   "shape": "fan",
+   "colors": [
+    "white",
+    "gray",
+    "red"
+   ],
+   "idp": [
+    "Small, thick fan with 5 to 7 heavy, wavy ribs, like a cat’s paw.",
+    "Edge is scalloped and wavy.",
+    "Gray-white with reddish lines on the ribs."
+   ],
+   "alike": "Scallops have ears at the hinge; the kitten’s paw does not.",
+   "where": "Very common on all Gulf beaches.",
+   "fact": "It grows cemented to hard surfaces, so many have a flattened spot.",
+   "wiki": [
+    "Plicatula gibbosa"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/atlantic-kitten-paw",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "giant-cockle",
+   "name": "Atlantic Giant Cockle",
+   "sci": "Dinocardium robustum (Lightfoot, 1786)",
+   "fam": "Cardiidae",
+   "g": "bivalve",
+   "size": "up to 5\"",
+   "freq": "Common",
+   "shape": "heart",
+   "colors": [
+    "tan",
+    "brown",
+    "red",
+    "cream"
+   ],
+   "idp": [
+    "Big, round-oval clam with 30 to 36 smooth, rounded ribs.",
+    "Straw-yellow to tan outside with reddish-brown at the back.",
+    "Inside is rosy to purplish-brown at the back."
+   ],
+   "alike": "[[prickly-cockle]] is smaller, with tiny spines on each rib.",
+   "where": "Gulf beaches; halves are everywhere after fronts.",
+   "fact": "The two halves fit together into a heart shape when seen from the side.",
+   "wiki": [
+    "Dinocardium robustum"
+   ],
+   "ref": "https://jaxshells.org/dr25.htm",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "prickly-cockle",
+   "name": "Florida Prickly Cockle",
+   "sci": "Trachycardium egmontianum (Shuttleworth, 1856)",
+   "fam": "Cardiidae",
+   "g": "bivalve",
+   "size": "up to 3\"",
+   "freq": "Common",
+   "shape": "heart",
+   "colors": [
+    "cream",
+    "orange",
+    "purple"
+   ],
+   "idp": [
+    "Oval clam with about 30 ribs, each lined with small prickly scales.",
+    "Outside cream to tan with brown or purple blotches.",
+    "Inside is glossy salmon, pink or purple."
+   ],
+   "alike": "[[giant-cockle]] is bigger with smooth ribs.",
+   "where": "All Gulf beaches.",
+   "fact": "Cockles can “jump” by bending their strong foot.",
+   "wiki": [
+    "Trachycardium egmontianum"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/florida-prickly-cockle",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "jewel-box",
+   "name": "Florida Spiny Jewel Box",
+   "sci": "Arcinella cornuta Conrad, 1866",
+   "fam": "Chamidae",
+   "g": "bivalve",
+   "size": "up to 1.5\"",
+   "freq": "Common",
+   "shape": "heart",
+   "colors": [
+    "white",
+    "pink"
+   ],
+   "idp": [
+    "Chunky little clam with rows of spines, usually worn down to knobs on beach shells.",
+    "White with a pinkish or purple-tinged inside.",
+    "Halves are uneven, with a deep heart-shaped pit in front of the hinge."
+   ],
+   "alike": "[[prickly-cockle]] has many fine ribs and an evenly rounded shape.",
+   "where": "Gulf beaches, often in shell piles.",
+   "fact": "Young ones anchor to bits of shell, then break free and live loose on the bottom.",
+   "wiki": [
+    "Arcinella cornuta"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/florida-spiny-jewelbox",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "coquina",
+   "name": "Variable Coquina",
+   "sci": "Donax variabilis Say, 1822",
+   "fam": "Donacidae",
+   "g": "bivalve",
+   "size": "up to 0.75\"",
+   "freq": "Common",
+   "shape": "wedge",
+   "colors": [
+    "white",
+    "yellow",
+    "pink",
+    "purple",
+    "orange",
+    "blue"
+   ],
+   "idp": [
+    "Tiny, glossy, wedge-shaped clam.",
+    "Every color of the rainbow, often with rays or bands.",
+    "Often found still paired like little butterflies."
+   ],
+   "alike": "[[rose-petal-tellin]] is thinner, flatter and longer.",
+   "where": "In the surf zone of every Gulf beach. Live ones dig back in as waves pull back.",
+   "fact": "One of the few live shells you may keep in Lee County (with a fishing license), and the classic coquina broth ingredient.",
+   "wiki": [
+    "Donax variabilis"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/variable-coquina",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "cross-barred-venus",
+   "name": "Cross-barred Venus",
+   "sci": "Chione elevata (Say, 1822)",
+   "fam": "Veneridae",
+   "g": "bivalve",
+   "size": "up to 1.75\"",
+   "freq": "Common",
+   "shape": "clam",
+   "colors": [
+    "white",
+    "gray",
+    "purple"
+   ],
+   "idp": [
+    "Thick, rounded clam with a crisscross pattern of raised ribs, like a waffle.",
+    "Gray-white outside, often with brown rays; purple inside."
+   ],
+   "alike": "Other venus clams are smooth.",
+   "where": "All beaches; one of the most common clams on Sanibel.",
+   "fact": "Older guides call it Chione cancellata.",
+   "wiki": [
+    "Chione elevata"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/florida-cross-barred-venus",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "sunray-venus",
+   "name": "Sunray Venus",
+   "sci": "Macrocallista nimbosa (Lightfoot, 1786)",
+   "fam": "Veneridae",
+   "g": "bivalve",
+   "size": "up to 5\"",
+   "freq": "Uncommon",
+   "shape": "long oval",
+   "colors": [
+    "pink",
+    "purple",
+    "tan"
+   ],
+   "idp": [
+    "Large, long-oval, very glossy clam.",
+    "Pinkish-tan with darker purplish rays spreading from the hinge like sunbeams."
+   ],
+   "alike": "[[calico-clam]] is shorter and covered in checker-like spots.",
+   "where": "Gulf beaches, especially after fronts.",
+   "fact": "A shell crafter’s favorite. Live sunray venus may be harvested in Lee County with a license.",
+   "wiki": [
+    "Macrocallista nimbosa"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/sunray-venus",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "calico-clam",
+   "name": "Calico Clam",
+   "sci": "Megapitaria maculata (Linnaeus, 1758)",
+   "fam": "Veneridae",
+   "g": "bivalve",
+   "size": "up to 2.5\"",
+   "freq": "Uncommon",
+   "shape": "clam",
+   "colors": [
+    "cream",
+    "brown"
+   ],
+   "idp": [
+    "Glossy, rounded-oval clam.",
+    "Cream with rows of reddish-brown checkers or blotches, like a calico print."
+   ],
+   "alike": "[[sunray-venus]] is longer, with rays instead of spots.",
+   "where": "Gulf beaches, more often after storms.",
+   "fact": "Older guides list it as Macrocallista maculata.",
+   "wiki": [
+    "Macrocallista maculata",
+    "Megapitaria maculata"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/calico-clam",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "dosinia",
+   "name": "Disk Dosinia",
+   "sci": "Dosinia discus (Reeve, 1850)",
+   "fam": "Veneridae",
+   "g": "bivalve",
+   "size": "up to 3\"",
+   "freq": "Common",
+   "shape": "round",
+   "colors": [
+    "white",
+    "cream"
+   ],
+   "idp": [
+    "Nearly round, flat-ish clam.",
+    "Very fine, regular, closely spaced concentric ridges (like grooves on a record).",
+    "Glossy cream-white."
+   ],
+   "alike": "Clam halves that are round but rough or ribbed are something else.",
+   "where": "Gulf beaches; often still paired.",
+   "fact": "Paired, butterflied dosinias are a favorite for shell art.",
+   "wiki": [
+    "Dosinia discus"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/disk-dosinia",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "pen-shell",
+   "name": "Stiff Pen Shell",
+   "sci": "Atrina rigida (Lightfoot, 1786)",
+   "fam": "Pinnidae",
+   "g": "bivalve",
+   "size": "up to 10\"",
+   "freq": "Common",
+   "shape": "fan",
+   "colors": [
+    "brown",
+    "black"
+   ],
+   "idp": [
+    "Large, thin, triangular fan-shaped shell.",
+    "Dark brown to black, with rows of tube-like spines.",
+    "Pearly inside near the narrow end."
+   ],
+   "alike": "The sawtooth pen shell is paler and smoother.",
+   "where": "Gulf beaches after storms, sometimes in big numbers, and often still alive. Check before you take one.",
+   "fact": "It stands upright in the sand, anchored by a tuft of fine threads (byssus). Storms can tear up whole beds and pile them on the beach.",
+   "wiki": [
+    "Atrina rigida"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/stiff-pen-shell",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "turkey-wing",
+   "name": "Turkey Wing",
+   "sci": "Arca zebra (Swainson, 1833)",
+   "fam": "Arcidae",
+   "g": "bivalve",
+   "size": "up to 3.5\"",
+   "freq": "Common",
+   "shape": "long oval",
+   "colors": [
+    "brown",
+    "white"
+   ],
+   "idp": [
+    "Long, boat-shaped clam with a straight, flat hinge line full of tiny teeth.",
+    "Zig-zag reddish-brown and white stripes, like turkey feathers."
+   ],
+   "alike": "[[ponderous-ark]] is plumper with neat ribs and no zebra stripes.",
+   "where": "Gulf beaches.",
+   "fact": "Also called the zebra ark. Look at the long straight row of hinge teeth.",
+   "wiki": [
+    "Arca zebra"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/turkey-wing",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "ponderous-ark",
+   "name": "Ponderous Ark",
+   "sci": "Noetia ponderosa (Say, 1822)",
+   "fam": "Noetiidae",
+   "g": "bivalve",
+   "size": "up to 2.5\"",
+   "freq": "Common",
+   "shape": "clam",
+   "colors": [
+    "white",
+    "black",
+    "brown"
+   ],
+   "idp": [
+    "Thick, heavy, squarish clam with about 30 strong ribs.",
+    "White under a dark brown to black fuzzy skin that wears off.",
+    "Long straight row of hinge teeth."
+   ],
+   "alike": "[[turkey-wing]] is longer with zebra stripes.",
+   "where": "All Gulf beaches; very common.",
+   "fact": "Most beach shells are bleached white with black bits of skin left in the grooves.",
+   "wiki": [
+    "Noetia ponderosa"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/ponderous-ark",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "jingle",
+   "name": "Common Jingle Shell",
+   "sci": "Anomia simplex d’Orbigny, 1853",
+   "fam": "Anomiidae",
+   "g": "bivalve",
+   "size": "up to 2\"",
+   "freq": "Common",
+   "shape": "round",
+   "colors": [
+    "yellow",
+    "orange",
+    "gray",
+    "black",
+    "silver"
+   ],
+   "idp": [
+    "Thin, shiny, irregular, almost see-through shell.",
+    "Golden-yellow, orange, silver or black.",
+    "Bottom half has a hole near the hinge."
+   ],
+   "alike": "[[slipper]] snails have an inner shelf; jingles don’t.",
+   "where": "Every beach; look for flashes of gold in the wrack.",
+   "fact": "Strings of them jingle like wind chimes, hence the name.",
+   "wiki": [
+    "Anomia simplex"
+   ],
+   "ref": "https://shells.shellmuseum.org/shell/anomia-simplex/",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "angel-wing",
+   "name": "Angel Wing",
+   "sci": "Cyrtopleura costata (Linnaeus, 1758)",
+   "fam": "Pholadidae",
+   "g": "bivalve",
+   "size": "up to 8\"",
+   "freq": "Rare",
+   "shape": "long oval",
+   "colors": [
+    "white"
+   ],
+   "idp": [
+    "Long, thin, pure-white shell with raised, scaly ribs, like a wing.",
+    "Very fragile; whole pairs are a treat."
+   ],
+   "alike": "The smaller false angel wing is thinner with weaker ribs.",
+   "where": "Lives deep in mud; empty shells wash up on Gulf and bay beaches after storms.",
+   "fact": "The animal digs up to a foot or more into the mud and breathes through a long siphon.",
+   "wiki": [
+    "Cyrtopleura costata"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/angel-wing",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "rose-petal-tellin",
+   "name": "Rose Petal Tellin",
+   "sci": "Eurytellina lineata (Turton, 1819)",
+   "fam": "Tellinidae",
+   "g": "bivalve",
+   "size": "up to 1.5\"",
+   "freq": "Uncommon",
+   "shape": "wedge",
+   "colors": [
+    "pink",
+    "white"
+   ],
+   "idp": [
+    "Thin, flat, glossy, slightly opalescent shell.",
+    "Rose-pink to white, often banded, like a flower petal.",
+    "Back end twists slightly to the right."
+   ],
+   "alike": "[[coquina]] is thicker and wedge-shaped; the sunrise tellin is bigger with pink rays.",
+   "where": "Gulf beaches, often in the fine shell line.",
+   "fact": "Older guides call it Tellina lineata.",
+   "wiki": [
+    "Tellina lineata",
+    "Eurytellina lineata"
+   ],
+   "ref": "https://www.shellmuseum.org/shellguide/rose-petal-tellin",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  },
+  {
+   "id": "sand-dollar",
+   "name": "Keyhole Sand Dollar",
+   "sci": "Mellita tenuis H.L. Clark, 1940",
+   "fam": "Mellitidae (sea urchin relative)",
+   "g": "other",
+   "size": "up to 4\"",
+   "freq": "Common",
+   "shape": "disc",
+   "colors": [
+    "white",
+    "brown"
+   ],
+   "idp": [
+    "Flat disc with a five-petal flower pattern on top and five slots (“keyholes”) through it.",
+    "Dead and bleached = white or gray and smooth. Alive = brown or dark, fuzzy with tiny moving spines."
+   ],
+   "alike": "Sea biscuits are thicker and domed.",
+   "where": "Shallow sandbars at low tide. Most you see in the water are alive: leave them there.",
+   "fact": "It’s a flattened sea urchin, not a shell. Live ones are living animals and must stay in the water.",
+   "wiki": [
+    "Keyhole sand dollar",
+    "Mellita tenuis"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Keyhole_sand_dollar",
+   "note": "",
+   "photo": "",
+   "photoCredit": ""
+  }
+ ]
+}
